@@ -1,0 +1,45 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    text-align: center;
+    color: rebeccapurple;
+}
+p{
+    text-align: center;
+    background-color: red;
+
+}
+
+a{
+    
+    color: brown;
+    font-size: 24px;
+    text-decoration: none;
+    transition: all 0.5s;
+}
+
+.paragraph-red{
+
+    text-align: center;
+    background-color: red;
+}
+
+.paragraph-yellow{
+
+    text-align: center;
+    background-color: yellow;
+}
+
+a:hover {
+    border-bottom: solid black 5px;
+}
+
+a:visited {
+    border-bottom: solid blue ;
+}
+
+img {
+    height: 300px;
+    width: 200px;
+}
